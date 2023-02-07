@@ -1,7 +1,7 @@
 # Inventory Program
 
 This project is a program that reads data from an inventory.txt file and presents the user with a menu of functions they can use.
-Some functions the user can select are allow the, to search for a product based of the shoe_ID, another allows the user to print out all detail of current stock on the console and to calculate the total value of stock for each item.
+Some functions the user can select are to search for a product based of the shoe_ID, another allows the user to print out all detail of current stock on the console and to calculate the total value of stock for each item.
 
 ## Table of contents:
 1. Installation
